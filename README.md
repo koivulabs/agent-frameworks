@@ -1,3 +1,9 @@
+# KoivuLabs: Agent Frameworks
+**Purpose**: Multi-agent task orchestration.
+**Dependencies**: CrewAI, Python.
+**Integration Points**:
+- **Execution**: Can be triggered by `flowise-core` as a high-level "Skill".
+
 <p align="center">
   <a href="https://github.com/crewAIInc/crewAI">
     <img src="docs/images/crewai_logo.png" width="600px" alt="Open source Multi-AI Agent orchestration framework">
